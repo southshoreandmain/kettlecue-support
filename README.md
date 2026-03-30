@@ -1,8 +1,8 @@
-# KettleQ Support
+# KettleCue Support
 
-Welcome to KettleQ support.
+Welcome to KettleCue support.
 
-KettleQ is a simple workout app designed to guide you through exercise sequences using voice prompts.
+KettleCue is a simple workout app designed to guide you through exercise sequences using voice prompts.
 
 
 ## Common Questions
@@ -18,8 +18,8 @@ Swipe left and tap Delete.
 
 ## Feedback
 
-We’re always looking to improve KettleQ. Feel free to reach out with suggestions!
+We’re always looking to improve KettleCue. Feel free to reach out with suggestions!
 
 ---
 
-Thank you for using KettleQ 💪
+Thank you for using KettleCue 💪
